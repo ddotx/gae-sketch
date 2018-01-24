@@ -37,6 +37,7 @@ Button Sizes
 Skeleton
 -----------------
 Image on theme.light → # f5f5f5
+
 Image on theme.dark → # 151515
 
 
@@ -48,13 +49,21 @@ Currency textsize < Price textsize = 2x (min=10 px)
 Heading & fontface
 -----------------
 h1 → weight 300 | size 48 | line height 72
+
 h2 → weight 400 | size 32 | line height 48
+
 h3 → weight 300 | size 24 | line height 36
+
 h4 → weight 300 | size 20 | line height 30
+
 h5 → weight 400 | size 16 | line height 24
+
 h6 → weight 400 | size 14 | line height 21
+
 button → weight 400 | size 18
+
 paragraph → weight 300 | size 17 | line height 30
+
 link → weight 300 | size 14
 
 
