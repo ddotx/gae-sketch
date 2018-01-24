@@ -23,6 +23,7 @@ Buy Now (สั่งซื้อเลย) → <open cart> → In Cart (อย�
 Button Sizes
 -----------------
 -xsmall padding: 5px 10px
+
 -small padding: 7px 20 px
 -medium padding: 10px 30px
 -large padding: 15px 30px
