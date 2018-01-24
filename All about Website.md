@@ -3,12 +3,12 @@ All about Website
 -----------------
 Layout
 -----------------
-Header
-Menu Navigation
-Breadcrumb
-Pagination (Load More)
-Sorts
-Filters
+Header--
+Menu Navigation--
+Breadcrumb--
+Pagination (Load More)--
+Sorts--
+Filters--
 
 -----------------
 Style Guideline
@@ -17,6 +17,7 @@ Style Guideline
 CTA Button
 -----------------
 Add to cart (เพิ่มในรถเข็น) → <background activity> → View Cart (ดูรถเข็น) + Buy More (ซื้อสินค้าชิ้นอื่น)
+
 Buy Now (สั่งซื้อเลย) → <open cart> → In Cart (อยู่ในรถเข็น)
 
 
@@ -25,8 +26,11 @@ Button Sizes
 -xsmall padding: 5px 10px
 
 -small padding: 7px 20 px
+
 -medium padding: 10px 30px
+
 -large padding: 15px 30px
+
 -xlarge padding: 15px 40px
 
 
