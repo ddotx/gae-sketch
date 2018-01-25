@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_outline_nextend01_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icnt_outline_nextend01_dark" stroke="#FFFFFF" stroke-width="2.56">
+            <g id="Group-2">
+                <g transform="translate(22.000000, 20.000000) scale(-1, 1) translate(-22.000000, -20.000000) translate(8.000000, 5.000000)">
+                    <g id="1469798748_button_forward" transform="translate(22.000000, 15.000000) scale(-1, 1) translate(-22.000000, -15.000000) translate(16.000000, 3.000000)">
+                        <g id="vec_x5F_bonus_x5F_3_x5C_3">
+                            <polyline id="Shape" points="0 0 11.6466667 11.9808 0 23.9616"></polyline>
+                        </g>
+                    </g>
+                    <g id="1469798748_button_forward" transform="translate(7.928571, 15.000000) scale(-1, 1) translate(-7.928571, -15.000000) translate(0.428571, 0.000000)">
+                        <g id="vec_x5F_bonus_x5F_3_x5C_3" transform="translate(0.000000, 0.000000)">
+                            <polyline id="Shape" points="7.78044296e-13 0 14.9742857 14.976 7.78044296e-13 29.952"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

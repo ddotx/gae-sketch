@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_outline_backbig02_light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icnt_outline_backbig02_light">
+            <g transform="translate(1.000000, 1.000000)">
+                <rect id="Rectangle" fill-opacity="0.8" fill="#DDDDDD" x="0" y="0" width="58" height="58"></rect>
+                <g id="icnt_outline_next01" transform="translate(21.000000, 14.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.56">
+                    <g id="1469798748_button_forward">
+                        <g id="vec_x5F_bonus_x5F_3_x5C_3">
+                            <polyline id="Shape" transform="translate(7.487143, 14.976000) scale(-1, 1) translate(-7.487143, -14.976000) " points="0 0 14.9742857 14.976 0 29.952"></polyline>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

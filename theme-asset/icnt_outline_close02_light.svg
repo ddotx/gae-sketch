@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_outline_close02_light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icnt_outline_close02_light">
+            <g>
+                <circle id="Oval" fill="#DDDDDD" opacity="0.800000012" cx="20" cy="20" r="20"></circle>
+                <g id="icnt_outline_close01" transform="translate(12.000000, 12.666667)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.36533333">
+                    <path d="M15.5932773,0.138730159 L0.346218487,15.1932756" id="Shape"></path>
+                    <path d="M0.347428571,0.138730159 L15.5932773,15.1932756" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

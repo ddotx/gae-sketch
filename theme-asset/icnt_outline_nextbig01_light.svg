@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_outline_nextbig01_light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icnt_outline_nextbig01_light">
+            <g transform="translate(1.000000, 1.000000)" fill="#DDDDDD" id="icnt_outline_nextbig01_dark" opacity="0.797691231">
+                <g>
+                    <circle id="Oval" cx="29" cy="29" r="29"></circle>
+                </g>
+            </g>
+            <g id="icnt_outline_next01" transform="translate(24.000000, 15.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.56">
+                <g id="1469798748_button_forward">
+                    <g id="vec_x5F_bonus_x5F_3_x5C_3">
+                        <polyline id="Shape" points="0 0 14.9742857 14.976 0 29.952"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

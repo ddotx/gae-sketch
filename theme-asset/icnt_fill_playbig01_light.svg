@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_fill_playbig01_light</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icnt_fill_playbig01_light">
+            <g id="icnt_outline_topbig01_light">
+                <g>
+                    <g id="icnt_outline_backbig01_light" fill="#DDDDDD" opacity="0.800000012">
+                        <g id="icnt_outline_backbig01_dark">
+                            <g id="icnt_fill_back01_light">
+                                <circle id="Oval" cx="30" cy="30" r="30"></circle>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M25.394,16.2869886 L44.204,28.5439886 C45.258,29.2499886 45.288,30.6729886 44.204,31.4409886 L25.394,43.6969886 C24.371,44.3689886 23,44.0199886 23,42.0599886 L23,17.9249886 C23,15.9509886 24.278,15.6799886 25.394,16.2869886 Z" id="Fill-126" fill="#000000"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
