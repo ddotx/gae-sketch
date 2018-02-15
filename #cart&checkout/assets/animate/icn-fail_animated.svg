@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>animate/icn-fail</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="animate/icn-fail" stroke-width="4">
+            <g id="x-circle" transform="translate(4.000000, 4.000000)">
+                <path id="Oval" stroke-opacity="0.868744339" stroke="#D50000" d="M0,20A20,20 0,1,1 40,20A20,20 0,1,1 0,20" class="TYxheaBX_0"></path>
+                <path d="M26,14 L14,26" id="Shape" stroke="#D0021B" class="TYxheaBX_1"></path>
+                <path d="M14,14 L26,26" id="Shape" stroke="#D0021B" class="TYxheaBX_2"></path>
+            </g>
+        </g>
+    </g>
+<style>.TYxheaBX_0{stroke-dasharray:126 128;stroke-dashoffset:127;animation:TYxheaBX_draw 779ms ease-out 0ms forwards;}.TYxheaBX_1{stroke-dasharray:17 19;stroke-dashoffset:18;animation:TYxheaBX_draw 110ms ease-out 779ms forwards;}.TYxheaBX_2{stroke-dasharray:17 19;stroke-dashoffset:18;animation:TYxheaBX_draw 110ms ease-out 889ms forwards;}@keyframes TYxheaBX_draw{100%{stroke-dashoffset:0;}}@keyframes TYxheaBX_fade{0%{stroke-opacity:1;}92.3076923076923%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>

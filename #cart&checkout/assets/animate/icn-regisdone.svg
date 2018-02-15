@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>animate/icn-regisdone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="animate/icn-regisdone" stroke-width="4.36363636">
+            <g transform="translate(17.000000, 14.000000)">
+                <path d="M54.5454545,62 L54.5454545,54.7058824 C54.5454545,46.6490225 48.0332327,40.1176471 40,40.1176471 L14.5454545,40.1176471 C6.51222182,40.1176471 8.07434927e-16,46.6490225 0,54.7058824 L0,62" id="Shape" stroke="#4CAF50"></path>
+                <ellipse id="Oval" stroke="#4CAF50" cx="27.2727273" cy="14.5882353" rx="14.5454545" ry="14.5882353"></ellipse>
+                <polyline id="Shape" stroke="#388E3C" points="58.1818182 25.5294118 65.4545455 32.8235294 80 18.2352941"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

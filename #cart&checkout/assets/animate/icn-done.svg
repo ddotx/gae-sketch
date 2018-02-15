@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>animate/icn-done</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="animate/icn-done" stroke-width="3.80952381">
+            <g id="check-circle" transform="translate(4.000000, 5.000000)">
+                <path d="M38.0952381,18.1809524 L38.0952381,19.952381 C38.0904149,28.3879731 32.5377028,35.8156438 24.4482903,38.2074304 C16.3588778,40.5992171 7.65979723,37.3853564 3.06848588,30.3086978 C-1.52282548,23.2320391 -0.912641056,13.97836 4.56814132,7.5658517 C10.0489237,1.15334345 19.0946908,-0.89042803 26.8,2.54285714" id="Shape" stroke="#4CAF50"></path>
+                <polyline id="Shape" stroke="#388E3C" points="40 2.80952381 19.047619 23.7619048 13.3333333 18.047619"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

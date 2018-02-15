@@ -1,0 +1,16 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>animate/icn-regisdone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="animate/icn-regisdone" stroke-width="4.36363636">
+            <g transform="translate(17.000000, 14.000000)">
+                <path d="M54.5454545,62 L54.5454545,54.7058824 C54.5454545,46.6490225 48.0332327,40.1176471 40,40.1176471 L14.5454545,40.1176471 C6.51222182,40.1176471 8.07434927e-16,46.6490225 0,54.7058824 L0,62" id="Shape" stroke="#4CAF50" class="nfUkbuBW_0"></path>
+                <path id="Oval" stroke="#4CAF50" d="M12.7272728,14.5882353A14.5454545,14.5882353 0,1,1 41.8181818,14.5882353A14.5454545,14.5882353 0,1,1 12.7272728,14.5882353" class="nfUkbuBW_1"></path>
+                <path id="Shape" stroke="#388E3C" d="M58.1818182,25.5294118L65.4545455,32.8235294L80,18.2352941" class="nfUkbuBW_2"></path>
+            </g>
+        </g>
+    </g>
+<style>.nfUkbuBW_0{stroke-dasharray:86 88;stroke-dashoffset:87;animation:nfUkbuBW_draw 410ms ease 0ms forwards;}.nfUkbuBW_1{stroke-dasharray:92 94;stroke-dashoffset:93;animation:nfUkbuBW_draw 438ms ease 410ms forwards;}.nfUkbuBW_2{stroke-dasharray:31 33;stroke-dashoffset:32;animation:nfUkbuBW_draw 150ms ease 849ms forwards;}@keyframes nfUkbuBW_draw{100%{stroke-dashoffset:0;}}@keyframes nfUkbuBW_fade{0%{stroke-opacity:1;}92.3076923076923%{stroke-opacity:1;}100%{stroke-opacity:0;}}</style></svg>
