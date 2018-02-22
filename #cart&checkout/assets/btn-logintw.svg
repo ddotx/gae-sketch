@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="181px" height="43px" viewBox="0 0 181 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-logintw</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="178" height="40" rx="3"></rect>
+        <filter x="-1.7%" y="-5.0%" width="103.4%" height="115.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Authen-style1-loginsocial-(modal)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-781.000000, -815.000000)">
+        <g id="Group-2" transform="translate(515.000000, 160.000000)">
+            <g id="btn-logintw" transform="translate(267.000000, 656.000000)">
+                <g id="BG">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#1DA1F2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="12:9:12:50" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="-0.0269230772" fill="#FFFFFF">
+                    <tspan x="50.5" y="25">Sign in with Twitter</tspan>
+                </text>
+                <g id="Twitter_Logo_Blue" transform="translate(12.000000, 13.000000)" fill="#FFFFFF">
+                    <g id="Logo_FIXED">
+                        <path d="M5.66064,14.9698529 C12.45312,14.9698529 16.16832,9.22279412 16.16832,4.23897059 C16.16832,4.07573529 16.16832,3.91323529 16.15752,3.75147059 C16.8802786,3.21758151 17.5041759,2.55652897 18,1.79926471 C17.3259929,2.10426601 16.6109971,2.30428577 15.87888,2.39264706 C16.6498157,1.92131034 17.2268089,1.1799794 17.50248,0.306617647 C16.7775534,0.745923026 15.9844652,1.05552354 15.15744,1.22205882 C14.0126996,-0.0210336185 12.1937179,-0.325284865 10.7204755,0.479911712 C9.24723302,1.28510829 8.48611799,2.99950421 8.86392,4.66176471 C5.89456493,4.50974231 3.12802256,3.07744358 1.2528,0.721323529 C0.272608385,2.44459171 0.773271276,4.64916138 2.39616,5.75588235 C1.80845366,5.73809379 1.23356115,5.57618616 0.72,5.28382353 L0.72,5.33161765 C0.720481056,7.1269066 1.95966107,8.67318762 3.6828,9.02867647 C3.13910611,9.18010298 2.56865802,9.20223845 2.01528,9.09338235 C2.49908251,10.6297227 3.88553368,11.682194 5.46552,11.7125 C4.15780923,12.7620823 2.54236285,13.3318586 0.87912,13.3301471 C0.58529057,13.329571 0.291746927,13.3114026 0,13.2757353 C1.68885788,14.3825563 3.65393765,14.9696448 5.66064,14.9669118" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

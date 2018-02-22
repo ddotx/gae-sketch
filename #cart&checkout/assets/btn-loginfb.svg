@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="43px" viewBox="0 0 199 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>btn-loginfb</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="196" height="40" rx="3"></rect>
+        <filter x="-1.5%" y="-5.0%" width="103.1%" height="115.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Authen-style1-loginsocial-(modal)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-564.000000, -815.000000)">
+        <g id="Group-2" transform="translate(515.000000, 160.000000)">
+            <g id="btn-loginfb" transform="translate(50.000000, 656.000000)">
+                <g id="BG">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#3B5998" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="12:9:12:50" font-family="Roboto-Medium, Roboto" font-size="14" font-weight="400" letter-spacing="-0.0269230772" fill="#FFFFFF">
+                    <tspan x="50.5" y="25">Sign in with Facebook</tspan>
+                </text>
+                <g id="Twitter_Logo_Blue" transform="translate(12.000000, 11.000000)" fill="#FFFFFF">
+                    <path d="M17.0065719,0 L0.993428103,0 C0.44471588,0 0,0.444648437 0,0.993428103 L0,17.0065719 C0,17.5552167 0.44471588,18 0.993428103,18 L9.61433378,18 L9.61433378,11.0294799 L7.268616,11.0294799 L7.268616,8.31289576 L9.61433378,8.31289576 L9.61433378,6.30951614 C9.61433378,3.98457065 11.0343357,2.71860739 13.1083277,2.71860739 C14.1017558,2.71860739 14.9556453,2.79259182 15.2044407,2.82563864 L15.2044407,5.25532234 L13.766027,5.25599676 C12.6380511,5.25599676 12.4196722,5.79196235 12.4196722,6.57847685 L12.4196722,8.31289576 L15.1097514,8.31289576 L14.7594551,11.0294799 L12.4196722,11.0294799 L12.4196722,18 L17.0065719,18 C17.5552167,18 18,17.5552167 18,17.0065719 L18,0.993428103 C18,0.444648437 17.5552167,0 17.0065719,0" id="Imported-Layers-Copy"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
