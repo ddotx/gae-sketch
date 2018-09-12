@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icnt_fill_mail01_ccolor1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon-share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-share-dark" transform="translate(-700.000000, -46.000000)">
+            <g id="icnt_fill_mail01_ccolor1" transform="translate(700.000000, 46.000000)">
+                <g id="icnt_fill_mail01_grey2">
+                    <g>
+                        <circle id="Oval-1-Copy-59" fill="#00A44B" cx="30" cy="30" r="30"></circle>
+                        <path d="M30,33.2885464 L26.89125,30.6551853 L16.0453125,42 L43.6790625,42 L33.0328125,30.6360267 L30,33.2885464 L30,33.2885464 Z M34.584375,29.4319034 L44.89875,40.3897126 C44.9578125,40.1770512 45,39.9567264 45,39.7239484 L45,20.7836735 L34.584375,29.4319034 L34.584375,29.4319034 Z M15,20.7396085 L15,39.7239484 C15,39.9567264 15.0421875,40.1770512 15.10125,40.3897126 L25.4503125,29.4673469 L15,20.7396085 L15,20.7396085 Z M44.0625,19 L15.9375,19 L30,30.5134111 L44.0625,19 L44.0625,19 Z" id="Fill-185" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
